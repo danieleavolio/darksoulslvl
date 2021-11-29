@@ -112,7 +112,7 @@
 
 	/* Media queries */
 
-	@media screen and (min-width:700px){
+	@media screen and (max-width:700px){
 		.components-div{
 			flex-direction: row;
 		}
